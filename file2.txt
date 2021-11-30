@@ -1,1 +1,5 @@
-lkfds
+<<<<<<< HEAD
+
+=======
+fdsl
+>>>>>>> 3675f6e (commit b2-1)
